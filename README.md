@@ -22,6 +22,8 @@ To push new action data to the tradingview client chart in realtime.
 
 Powerful & perfect for your most demanding users. Loaded with features for complete technical analysis. Next-gen web charting that beats the desktop experience. Deploy top performing technical charting for Balancer pooled tokens.
 
+![alt text](/docs/images/tradingview1.png "TradingView Charts for Balancer tokens pairs")
+
 
 ## Balancer Swaps.Vision Frontend App
 
