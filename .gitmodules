@@ -1,0 +1,6 @@
+[submodule "balancer-swapsvision-api"]
+	path = balancer-swapsvision-api
+	url = https://github.com/sekmet/balancer-swapsvision-api.git
+[submodule "balancer-swapsvision-ws"]
+	path = balancer-swapsvision-ws
+	url = https://github.com/sekmet/balancer-swapsvision-ws.git
