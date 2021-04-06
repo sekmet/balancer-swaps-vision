@@ -3,7 +3,9 @@
 
 This project is about making balancer pools information easy to access and use by presenting aggregated data to serve defi traders and investors and those who could benefit from it to a better decision making. More than simply integrating tradingview charts for balancer token pairs, this project aims create a more detailed information source about tokens and pools status on-chain. Offer fast and easy access to token prices action and volumes charts for pooled tokens including total liquidity of the pools using balancer resources.
 
-![Token prices](/docs/images/tradingview1.png "Balancer token prices listing")
+![Token prices](/docs/images/tokenprices.png "Balancer token prices listing")
+
+![Token/Pools routing](/docs/images/tokenpoolrouting.png "Balancer token/pools routing")
 
 ## Admin / Syncer Server
 
