@@ -1,6 +1,8 @@
 # Balancer Swaps.Vision Project - [In progress]
 ## Updates in progress! - Productive version soon available
 
+![Balancer Swaps.Vision](/docs/images/logo_balancer_swaps_vision_500px.png "Balancer Swaps.Vision")
+
 This project is about making balancer pools information easy to access and use by presenting aggregated data to serve defi traders and investors and those who could benefit from it to a better decision making. More than simply integrating tradingview charts for balancer token pairs, this project aims create a more detailed information source about tokens and pools status on-chain. Offer fast and easy access to token prices action and volumes charts for pooled tokens including total liquidity of the pools using balancer resources.
 
 ![Token prices](/docs/images/tokenprices.png "Balancer token prices listing")
