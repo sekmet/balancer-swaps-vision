@@ -12,8 +12,6 @@ This project is about making balancer pools information easy to access and use b
 
 Offer fast and easy access to token prices action and volumes charts for pooled tokens including total liquidity of the pools using balancer resources.
 
-![Token/Pools routing](/docs/images/tokenpoolrouting.png "Balancer token/pools routing")
-
 ## Admin / Syncer Server
 
 Server for syncing historical price volume data from CoinGecko API, Balancer swaps and current pools liquidity data to serve tradingview client chart and analytics pages.
@@ -41,6 +39,8 @@ Powerful & perfect for your most demanding users. Loaded with features for compl
 ## Balancer Swaps.Vision Frontend App
 
 Displays analytics for Balancer tokens and pools. Integration with historical price volume data from CoinGecko API to better decision making, allow detailed filtering and searching.
+
+![Token/Pools routing](/docs/images/tokenpoolrouting.png "Balancer token/pools routing")
 ### https://balancer.swaps.vision/pools
 
 ### more info features soon
