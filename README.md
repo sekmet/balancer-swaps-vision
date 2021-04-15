@@ -35,10 +35,15 @@ Powerful & perfect for your most demanding users. Loaded with features for compl
 
 ![Tradingview Charts](/docs/images/tradingview1.png "TradingView Charts for Balancer tokens pairs")
 
+![Trade Balancer tokens](/docs/images/tradefromcharts.jpg "Trade Balancer tokens pairs direct from TradingView Charts")
 
 ## Balancer Swaps.Vision Frontend App
 
 Displays analytics for Balancer tokens and pools. Integration with historical price volume data from CoinGecko API to better decision making, allow detailed filtering and searching.
+
+### in progress
+![Balancer Swaps vision token info page](/docs/images/tokeninfo.jpg "Balancer Swaps vision token info page")
+
 
 ![Token/Pools routing](/docs/images/tokenpoolrouting.png "Balancer token/pools routing")
 ### https://balancer.swaps.vision/pools
