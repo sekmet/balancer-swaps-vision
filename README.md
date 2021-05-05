@@ -1,4 +1,4 @@
-# Balancer Swaps.Vision Project - [In progress]
+# Balancer Swaps.Vision Project
 ### https://balancer.swaps.vision/dashboard
 
 ![Dashboard v0.1](/docs/images/dashboardv01.png "Dashboard")
